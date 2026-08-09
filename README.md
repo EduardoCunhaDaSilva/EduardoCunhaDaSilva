@@ -1,8 +1,9 @@
-# 👩🏻‍💻 Larissa Kich
+# 👨‍💻 Eduardo Cunha da Silva    
 
 **`Desenvolvedor FullStack`**
 
 Me chamo Eduardo Cunha da Silva, tenho 24 anos e sou natural do Rio Grande do Sul. Atualmente, estou cursando Análise e Desenvolvimento de Sistemas na Unicesumar. Tenho grande interesse por tecnologia e busco constantemente aprender, evoluir e desenvolver novas habilidades na área.
+
     <a href="https://github.comEduardoCunhaDaSilva?tab=repositories&sort=stargazers">
         <img 
             alt="Total de estrelas" 
