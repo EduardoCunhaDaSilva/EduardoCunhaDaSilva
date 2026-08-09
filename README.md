@@ -39,24 +39,6 @@ Tenho grande interesse por tecnologia e busco constantemente aprender, evoluir e
 
 ---
 
-### 📊 Estatísticas
-
-<div align="left">
-
-<img 
- src="https://github-readme-stats.vercel.app/api?username=EduardoCunhaDaSilva&show_icons=true&theme=dark&include_all_commits=true&count_private=true" 
- height="180"
-/>
-
-<img 
- src="https://github-readme-stats.vercel.app/api/top-langs/?username=EduardoCunhaDaSilva&layout=compact&langs_count=8&theme=dark" 
- height="180"
-/>
-
-</div>
-
----
-
 ### ⭐ GitHub
 
 <a href="https://github.com/EduardoCunhaDaSilva?tab=repositories&sort=stargazers">
