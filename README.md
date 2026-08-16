@@ -1,10 +1,10 @@
 # 👨‍💻 Eduardo Cunha da Silva
 
-**`Desenvolvedor Full Stack`**
+**`👨‍💻 Desenvolvedor Front-end | Em formação Full Stack`**
 
 Me chamo Eduardo Cunha da Silva, tenho 24 anos e sou natural do Rio Grande do Sul. Atualmente, estou cursando **Análise e Desenvolvimento de Sistemas na Unicesumar**.
 
-Tenho grande interesse por tecnologia e busco constantemente aprender, evoluir e desenvolver novas habilidades na área de desenvolvimento de software.
+Tenho grande interesse por tecnologia e busco constantemente aprender, evoluir e desenvolver novas habilidades na área de desenvolvimento web e de softwares.
 
 ---
 
